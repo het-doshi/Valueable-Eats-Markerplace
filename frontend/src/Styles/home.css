@@ -1,0 +1,58 @@
+.owner {
+    position: absolute;
+    left: 500px;
+    top: 300px;
+}
+
+.name {
+    position: absolute;
+    right: 100px;
+    top: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.foodCard {
+    width: 300px;
+    height: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    margin-left: 50px; 
+    margin-top: 50px;
+    flex: 0 -1 33.33%;
+}
+
+.breakfastItems {
+    position: relative; 
+    width: 80%; 
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-evenly; 
+    padding: 20px; 
+    left: 250px;
+    top: 50px;
+   /* border: solid 1px black; */
+}
+
+
+.foodImage {
+    width: 85%;
+    height: 150px;
+    object-fit: cover;
+    position: relative;
+    top: 20px;
+    left: 21px;
+}
+
+.CardBody {
+    position: relative;
+    padding: 10px; 
+    top: 30px;
+}
+
+.restaurant{
+    position: relative;
+    top: 39px;
+    left: 240px;
+    font-size: 23px;
+    width: 500px;
+}

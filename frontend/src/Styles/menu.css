@@ -1,0 +1,80 @@
+.dishTable{
+    position: absolute;
+    top: 170px;
+    left: 400px;
+    width: 750px;
+    border: solid black 1px;
+}
+
+.update{
+   position: relative;
+}
+
+.delete{
+    position: relative;
+    left: 10px;
+}
+
+.insert{
+    position: relative;
+    left: 1250px;
+    top: 103px;
+}
+
+.refresh{
+   position: relative;
+   left: 1137px;
+   top: 153px;
+}
+
+.cardbodyd{
+    width: 36rem;
+    height: 32rem;
+    position: absolute;
+    top: 70px;
+    left: 460px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #EFECEC;
+    
+ }
+
+ .Title{
+    position: relative;
+    top: 20px;
+    left: 150px;
+ }
+
+ .updatetitle{
+   position: relative;
+   top: 20px;
+   left: 109px;
+ }
+ .dform{
+    position: relative;
+    top: 50px;
+ }
+
+ .resName{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    font-size: 26px;
+    font-weight: 600;
+ }
+
+ .menu{
+   width: 200px;
+   position: absolute;
+   top: 93px;
+   left: 252px;
+   font-size: 20px;
+   font-style: italic;
+}
+ 
+.displayitems{
+   width: 500px;
+   position: absolute;
+   top: 151px;
+   left: 236px;
+   font-size: 20px;
+}

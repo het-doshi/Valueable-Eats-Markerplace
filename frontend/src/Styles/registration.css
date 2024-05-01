@@ -1,0 +1,57 @@
+
+.loginTittle{
+    text-align: center;
+    position: relative;
+    top: 15px;
+    z-index: 100;
+}
+
+.cardBody{
+   width: 36rem;
+   height: 38rem;
+   position: absolute;
+   top: 40px;
+   left: 460px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+   background-color: #EFECEC;
+   
+}
+
+.imgl{
+    width: 130px;
+    height: 80px;
+    position: relative;
+    top: -19px;
+    left: 205px;
+}
+
+.tagline{
+        text-align: center;
+        position: relative;
+        font-size: 20px;
+        top: 50px;
+        color: black;
+        text-align: center;
+        font-family: cursive;
+}
+
+.submit{
+    position: relative;
+    top: 10px;
+    left: 170px;
+    margin-right: 20px;
+    width: 90px;
+    height: 40px;
+}
+
+.stitle{
+    font-size: 17px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+
+.rform{
+    position: relative;
+    top: -18px;
+}

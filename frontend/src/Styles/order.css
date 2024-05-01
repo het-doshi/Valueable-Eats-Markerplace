@@ -1,0 +1,32 @@
+.orderTable{
+    position: absolute;
+    top: 170px;
+    left: 296px;
+    width: 1076px;
+    border: solid black 1px;
+}
+
+.payments{
+    position: relative;
+    font-size: 24px;
+    top: 37px;
+    left: 403px;
+    width: 300px;
+}
+
+.sales{
+    position: relative;
+    font-size: 24px;
+    top: 37px;
+    left: 403px;
+    width: 300px;
+}
+
+.orders{
+    position: relative;
+    font-size: 24px;
+    top: 37px;
+    left: 300px;
+    width: 300px;
+}
+
